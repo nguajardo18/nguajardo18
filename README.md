@@ -3,10 +3,10 @@
 # 👋 Hola, soy Nelson Guajardo
 
 ### Desarrollador de Software · 30+ años de experiencia
-**IQDotNet — Ingeniería de software y automatización**
+**IQDOTNET — Ingeniería, Software e Innovación Inteligente**
 *Construimos el futuro, un proyecto a la vez · Building the future, one project at a time*
 
-[![Website](https://img.shields.io/badge/IQDotNet-www.iqdotnet.net-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
+[![Website](https://img.shields.io/badge/IQDOTNET-www.iqdotnet.net-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
 [![Email](https://img.shields.io/badge/Email-nguajardo@iqdotnet.net-d14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:nguajardo@iqdotnet.net)
 [![X](https://img.shields.io/badge/X-@nguajardo-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nguajardo)
@@ -17,27 +17,48 @@
 
 ## 🇲🇽 Español
 
-Desarrollador de software con **más de 30 años de experiencia** construyendo aplicaciones empresariales en VB.NET, C#, MSSQL y Python. Fundador de **IQDotNet**, donde creo soluciones a la medida que automatizan y hacen crecer negocios.
+Desarrollador de software con **más de 30 años de experiencia** construyendo aplicaciones empresariales en VB.NET, C#, MSSQL y Python. Fundador de **IQDOTNET**, donde transformo la operación de los negocios con software a la medida: ordeno procesos, automatizo tareas y convierto datos en decisiones.
+
+> 💡 **¿Ordenamos tu operación?** Consulta inicial **sin costo y sin compromiso**.
 
 **🚀 ¿Qué hago?**
-- 💼 **Desarrollo a la medida** — sistemas administrativos, CRM, ERP y automatizaciones para tu empresa.
-- 🗄️ **Bases de datos SQL Server** — diseño, optimización y migración de datos.
-- 🔗 **Integraciones y APIs** — conecto tus sistemas con servicios externos (pagos, INEGI/DENUE, facturación, etc.).
-- ☁️ **Modernización** — migración de aplicaciones legacy a tecnologías actuales.
-
-> 📩 ¿Tienes un proyecto en mente? Escríbeme a **nguajardo@iqdotnet.net** o visita **[iqdotnet.net](https://www.iqdotnet.net/)**.
+- 💼 **Sistemas a la medida** — CRM, ERP, administrativos, inventarios, punto de venta y portales web para tu empresa.
+- 🤖 **Automatización de procesos** — elimino el trabajo manual repetitivo y los errores de captura.
+- 🗄️ **Bases de datos SQL Server** — diseño, optimización, migración y reportería (Excel / PDF).
+- 🔗 **Integraciones y APIs** — conecto tus sistemas con servicios externos (pagos, INEGI/DENUE, facturación, WhatsApp, correo).
+- 📊 **Reportes y tableros** — indicadores y datos en tiempo real para decidir mejor.
+- ☁️ **Modernización** — migro aplicaciones legacy (VB6/.NET viejo) a tecnologías actuales (.NET 10).
+- 🛠️ **Soporte y mantenimiento** — acompañamiento continuo, no solo entrego y desaparezco.
 
 ## 🇺🇸 English
 
-Software developer with **30+ years of experience** building enterprise applications in VB.NET, C#, MSSQL, and Python. Founder of **IQDotNet**, where I craft custom solutions that automate and grow businesses.
+Software developer with **30+ years of experience** building enterprise applications in VB.NET, C#, MSSQL, and Python. Founder of **IQDOTNET**, where I transform business operations with custom software: I streamline processes, automate tasks, and turn data into decisions.
+
+> 💡 **Let's organize your operation.** Free initial consultation, no strings attached.
 
 **🚀 What I do**
-- 💼 **Custom software** — admin systems, CRM, ERP, and business automation.
-- 🗄️ **SQL Server databases** — design, optimization, and data migration.
-- 🔗 **Integrations & APIs** — connecting your systems with external services.
-- ☁️ **Modernization** — migrating legacy apps to modern stacks.
+- 💼 **Custom systems** — CRM, ERP, admin tools, inventory, POS, and web portals.
+- 🤖 **Process automation** — removing repetitive manual work and data-entry errors.
+- 🗄️ **SQL Server databases** — design, optimization, migration, and reporting (Excel / PDF).
+- 🔗 **Integrations & APIs** — connecting your systems with payments, government data, billing, WhatsApp, email.
+- 📊 **Reports & dashboards** — real-time KPIs to make better decisions.
+- ☁️ **Modernization** — migrating legacy apps to modern stacks (.NET 10).
+- 🛠️ **Support & maintenance** — ongoing partnership, not just deliver-and-leave.
 
-> 📩 Have a project in mind? Reach me at **nguajardo@iqdotnet.net** or visit **[iqdotnet.net](https://www.iqdotnet.net/)**.
+---
+
+## 💼 Soluciones que he construido / What I've built
+
+Ejemplos reales de sistemas a la medida desarrollados para clientes:
+
+| Solución | Industria | Qué resuelve |
+|---|---|---|
+| **CRM con prospección automática** | Ventas / Comercial | Gestión de prospectos, campañas y cotizaciones, con prospección automática de PyMEs vía **INEGI-DENUE** y envío de correos. |
+| **Control de producto terminado** | Manufactura / Logística | Inventario por ubicación, transferencias entre bodegas, conteo físico y reportes en **Excel/PDF**. |
+| **Reservaciones y eventos** | Hospitalidad / Entretenimiento | Reservas, membresías, eventos, menú y panel administrativo para un centro deportivo/recreativo. |
+| **Gestión de torneos** | Deportes | Inscripciones, pagos, cuadros con BYE, captura por sets, ranking histórico, **QR público** y pantallas en vivo. |
+
+> *Stack típico: ASP.NET Core 10 · C# · Dapper · SQL Server / SQLite · QuestPDF · ClosedXML.*
 
 ---
 
@@ -48,9 +69,13 @@ Software developer with **30+ years of experience** building enterprise applicat
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IIS](https://img.shields.io/badge/IIS-262626?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
@@ -60,7 +85,7 @@ Software developer with **30+ years of experience** building enterprise applicat
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguajardo18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguajardo18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguajardo18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguajardo18&theme=tokyonight&hide_border=true)
 
@@ -70,7 +95,10 @@ Software developer with **30+ years of experience** building enterprise applicat
 
 <div align="center">
 
-### 📬 Contacto / Contact
+## 📬 ¿Hablamos? / Let's talk
+
+**¿Tienes un proyecto en mente o un proceso que quieres ordenar?**
+Escríbeme y agendamos una consulta inicial sin costo.
 
 [![Website](https://img.shields.io/badge/Web-iqdotnet.net-1f6feb?style=flat-square&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
@@ -79,6 +107,6 @@ Software developer with **30+ years of experience** building enterprise applicat
 [![Facebook](https://img.shields.io/badge/Facebook-guajardo.nelson-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/guajardo.nelson)
 [![Instagram](https://img.shields.io/badge/Instagram-nguajardo18-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nguajardo18)
 
-📍 México · *Desarrollo de aplicaciones a la medida*
+📍 México · *Ingeniería, Software e Innovación Inteligente*
 
 </div>

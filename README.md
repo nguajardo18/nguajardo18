@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/IQDotNet-www.iqdotnet.net-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
-[![Email](https://img.shields.io/badge/Email-nguajardo@outlook.com-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguajardo@outlook.com)
+[![Email](https://img.shields.io/badge/Email-nguajardo@iqdotnet.net-d14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:nguajardo@iqdotnet.net)
 [![X](https://img.shields.io/badge/X-@nguajardo-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nguajardo)
 
 </div>
@@ -25,7 +25,7 @@ Desarrollador de software con **más de 30 años de experiencia** construyendo a
 - 🔗 **Integraciones y APIs** — conecto tus sistemas con servicios externos (pagos, INEGI/DENUE, facturación, etc.).
 - ☁️ **Modernización** — migración de aplicaciones legacy a tecnologías actuales.
 
-> 📩 ¿Tienes un proyecto en mente? Escríbeme a **nguajardo@outlook.com** o visita **[iqdotnet.net](https://www.iqdotnet.net/)**.
+> 📩 ¿Tienes un proyecto en mente? Escríbeme a **nguajardo@iqdotnet.net** o visita **[iqdotnet.net](https://www.iqdotnet.net/)**.
 
 ## 🇺🇸 English
 
@@ -37,7 +37,7 @@ Software developer with **30+ years of experience** building enterprise applicat
 - 🔗 **Integrations & APIs** — connecting your systems with external services.
 - ☁️ **Modernization** — migrating legacy apps to modern stacks.
 
-> 📩 Have a project in mind? Reach me at **nguajardo@outlook.com** or visit **[iqdotnet.net](https://www.iqdotnet.net/)**.
+> 📩 Have a project in mind? Reach me at **nguajardo@iqdotnet.net** or visit **[iqdotnet.net](https://www.iqdotnet.net/)**.
 
 ---
 
@@ -74,7 +74,7 @@ Software developer with **30+ years of experience** building enterprise applicat
 
 [![Website](https://img.shields.io/badge/Web-iqdotnet.net-1f6feb?style=flat-square&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
-[![Email](https://img.shields.io/badge/Email-nguajardo@outlook.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nguajardo@outlook.com)
+[![Email](https://img.shields.io/badge/Email-nguajardo@iqdotnet.net-d14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:nguajardo@iqdotnet.net)
 [![X](https://img.shields.io/badge/X-@nguajardo-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nguajardo)
 [![Facebook](https://img.shields.io/badge/Facebook-guajardo.nelson-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/guajardo.nelson)
 [![Instagram](https://img.shields.io/badge/Instagram-nguajardo18-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nguajardo18)

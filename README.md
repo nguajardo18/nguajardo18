@@ -1,10 +1,15 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:25D366&height=210&section=header&text=IQDOTNET&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa,%20Software%20e%20Innovaci%C3%B3n%20Inteligente&descSize=18&descAlignY=60" width="100%" alt="IQDOTNET" />
+
 # 👋 Hola, soy Nelson Guajardo
 
-### Desarrollador de Software · 30+ años de experiencia
-**IQDOTNET — Ingeniería, Software e Innovación Inteligente**
-*Construimos el futuro, un proyecto a la vez · Building the future, one project at a time*
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&height=45&lines=30%2B+a%C3%B1os+creando+software+a+la+medida;CRM+%C2%B7+ERP+%C2%B7+Inventarios+%C2%B7+Automatizaci%C3%B3n;%C2%BFOrdenamos+tu+operaci%C3%B3n%3F" alt="Typing SVG" /></a>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=nguajardo18&label=Visitas%20al%20perfil&color=2f81f7&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/nguajardo18?label=Seguidores&style=flat-square&color=2f81f7" alt="Followers" />
+</p>
 
 [![Website](https://img.shields.io/badge/IQDOTNET-www.iqdotnet.net-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
@@ -64,6 +69,8 @@ Ejemplos reales de sistemas a la medida desarrollados para clientes:
 
 ## 🛠️ Stack / Tecnologías
 
+<p align="center">
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -77,19 +84,42 @@ Ejemplos reales de sistemas a la medida desarrollados para clientes:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![IIS](https://img.shields.io/badge/IIS-262626?style=for-the-badge&logo=microsoft&logoColor=white)
 
+</p>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguajardo18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nguajardo18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguajardo18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nguajardo18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguajardo18&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguajardo18&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
+
+### 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nguajardo18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+
+</div>
+
+### 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nguajardo18&theme=tokyo-night&hide_border=true&area=true&color=2f81f7&line=25D366&point=ffffff" width="100%" alt="Activity Graph" />
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/nguajardo18/nguajardo18/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -108,5 +138,7 @@ Escríbeme y agendamos una consulta inicial sin costo.
 [![Instagram](https://img.shields.io/badge/Instagram-nguajardo18-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/nguajardo18)
 
 📍 México · *Ingeniería, Software e Innovación Inteligente*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:25D366,100:1f6feb&height=120&section=footer" width="100%" alt="footer" />
 
 </div>

@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_White.png" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_Black.png" />
-  <img src="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_Black.png" width="300" alt="IQDOTNET" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_anim_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_anim_light.svg" />
+  <img src="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_anim_light.svg" width="320" alt="IQDOTNET" />
 </picture>
 
 # 👋 Hola, soy Nelson Guajardo

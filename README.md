@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/github/followers/nguajardo18?label=Seguidores&style=flat-square&color=2f81f7" alt="Followers" />
 </p>
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-portafolio.iqdotnet.net-ffc400?style=for-the-badge&logo=githubpages&logoColor=black)](https://portafolio.iqdotnet.net/)
 [![Website](https://img.shields.io/badge/IQDOTNET-www.iqdotnet.net-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
 [![Email](https://img.shields.io/badge/Email-nguajardo@iqdotnet.net-d14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:nguajardo@iqdotnet.net)
@@ -148,6 +149,7 @@ Ejemplos reales de sistemas a la medida desarrollados para clientes:
 **¿Tienes un proyecto en mente o un proceso que quieres ordenar?**
 Escríbeme y agendamos una consulta inicial sin costo.
 
+[![Portafolio](https://img.shields.io/badge/Portafolio-portafolio.iqdotnet.net-ffc400?style=flat-square&logo=githubpages&logoColor=black)](https://portafolio.iqdotnet.net/)
 [![Website](https://img.shields.io/badge/Web-iqdotnet.net-1f6feb?style=flat-square&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
 [![Email](https://img.shields.io/badge/Email-nguajardo@iqdotnet.net-d14836?style=flat-square&logo=maildotru&logoColor=white)](mailto:nguajardo@iqdotnet.net)

@@ -28,7 +28,13 @@
 
 ## 🇲🇽 Español
 
-Desarrollador de software con **más de 30 años de experiencia** construyendo aplicaciones empresariales en VB.NET, C#, MSSQL y Python. Fundador de **IQDOTNET**, donde transformo la operación de los negocios con software a la medida: ordeno procesos, automatizo tareas y convierto datos en decisiones.
+**Desarrollador full-stack .NET con más de 30 años de experiencia** construyendo software empresarial de extremo a extremo — desde el modelado de la base de datos hasta el despliegue en producción. Fundador de **IQDOTNET**, donde transformo la operación de los negocios: ordeno procesos, automatizo tareas y convierto datos en decisiones.
+
+**✨ Lo que me distingue**
+- 🏆 **+30 años** acompañando toda la evolución de Microsoft: de VB6 al .NET 10 actual.
+- 🧩 **End-to-end** — análisis, base de datos, backend, frontend, despliegue y soporte: yo lo cubro todo.
+- 🏭 **Sistemas reales para clientes** en ventas, manufactura, hospitalidad y deportes.
+- ✅ **Calidad de ingeniería** — pruebas automatizadas e integración continua (CI) en mis proyectos.
 
 > 💡 **¿Ordenamos tu operación?** Consulta inicial **sin costo y sin compromiso**.
 
@@ -43,7 +49,13 @@ Desarrollador de software con **más de 30 años de experiencia** construyendo a
 
 ## 🇺🇸 English
 
-Software developer with **30+ years of experience** building enterprise applications in VB.NET, C#, MSSQL, and Python. Founder of **IQDOTNET**, where I transform business operations with custom software: I streamline processes, automate tasks, and turn data into decisions.
+**Full-stack .NET developer with 30+ years of experience** building enterprise software end to end — from database modeling to production deployment. Founder of **IQDOTNET**, where I transform how businesses operate: I streamline processes, automate tasks, and turn data into decisions.
+
+**✨ What sets me apart**
+- 🏆 **30+ years** spanning the entire Microsoft evolution: from VB6 to today's .NET 10.
+- 🧩 **End-to-end** — analysis, database, backend, frontend, deployment and support: all covered.
+- 🏭 **Real client systems** across sales, manufacturing, hospitality and sports.
+- ✅ **Engineering quality** — automated tests and continuous integration (CI) across my projects.
 
 > 💡 **Let's organize your operation.** Free initial consultation, no strings attached.
 

@@ -1,10 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:25D366&height=210&section=header&text=IQDOTNET&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa,%20Software%20e%20Innovaci%C3%B3n%20Inteligente&descSize=18&descAlignY=60" width="100%" alt="IQDOTNET" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_White.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_Black.png" />
+  <img src="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_Black.png" width="300" alt="IQDOTNET" />
+</picture>
 
 # 👋 Hola, soy Nelson Guajardo
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&height=45&lines=30%2B+a%C3%B1os+creando+software+a+la+medida;CRM+%C2%B7+ERP+%C2%B7+Inventarios+%C2%B7+Automatizaci%C3%B3n;%C2%BFOrdenamos+tu+operaci%C3%B3n%3F" alt="Typing SVG" /></a>
+### Construimos el futuro, un proyecto a la vez 🚀
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&height=45&lines=Construimos+el+futuro%2C+un+proyecto+a+la+vez;30%2B+a%C3%B1os+creando+software+a+la+medida;CRM+%C2%B7+ERP+%C2%B7+Inventarios+%C2%B7+Automatizaci%C3%B3n;%C2%BFOrdenamos+tu+operaci%C3%B3n%3F" alt="Typing SVG" /></a>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=nguajardo18&label=Visitas%20al%20perfil&color=2f81f7&style=flat-square" alt="Profile views" />

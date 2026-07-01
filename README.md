@@ -114,15 +114,7 @@ Ejemplos reales de sistemas a la medida desarrollados para clientes:
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=nguajardo18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguajardo18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguajardo18&theme=tokyonight&hide_border=true" alt="Streak" />
-
-</div>
-
-### 🏆 Trofeos
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nguajardo18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+<img src="https://streak-stats.demolab.com/?user=nguajardo18&theme=tokyonight&hide_border=true" alt="Streak" />
 
 </div>
 

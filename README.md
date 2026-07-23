@@ -85,6 +85,12 @@ Ejemplos reales de sistemas a la medida desarrollados para clientes:
 
 > *Stack típico: ASP.NET Core 10 · C# · Dapper · SQL Server / SQLite · QuestPDF · ClosedXML.*
 
+<div align="center">
+
+**🔎 Conoce estos y más proyectos en mi portafolio → [portafolio.iqdotnet.net](https://portafolio.iqdotnet.net/)**
+
+</div>
+
 ---
 
 ## 🛠️ Stack / Tecnologías

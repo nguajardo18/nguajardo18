@@ -3,21 +3,22 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_anim_dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_anim_light.svg" />
-  <img src="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_anim_light.svg" width="320" alt="IQDOTNET" />
+  <img src="https://raw.githubusercontent.com/nguajardo18/nguajardo18/main/assets/iqdotnet_anim_light.svg" width="210" alt="IQDOTNET" />
 </picture>
 
 # 👋 Hola, soy Nelson Guajardo
 
 ### Construimos el futuro, un proyecto a la vez 🚀
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=620&height=45&lines=Construimos+el+futuro%2C+un+proyecto+a+la+vez;30%2B+a%C3%B1os+creando+software+a+la+medida;CRM+%C2%B7+ERP+%C2%B7+Inventarios+%C2%B7+Automatizaci%C3%B3n;%C2%BFOrdenamos+tu+operaci%C3%B3n%3F" alt="Typing SVG" /></a>
+<a href="https://portafolio.iqdotnet.net/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=650&height=45&lines=Desarrollador+full-stack+.NET+%C2%B7+%2B30+a%C3%B1os;Sistemas+CRM+%C2%B7+ERP+%C2%B7+Inventarios;Automatizo+e+integro+tu+operaci%C3%B3n;%C2%BFOrdenamos+tu+operaci%C3%B3n%3F" alt="Typing SVG" /></a>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=nguajardo18&label=Visitas%20al%20perfil&color=2f81f7&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/nguajardo18?label=Seguidores&style=flat-square&color=2f81f7" alt="Followers" />
 </p>
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-portafolio.iqdotnet.net-ffc400?style=for-the-badge&logo=githubpages&logoColor=black)](https://portafolio.iqdotnet.net/)
+### 🌐 [Visita mi portafolio → **portafolio.iqdotnet.net**](https://portafolio.iqdotnet.net/)
+
 [![Website](https://img.shields.io/badge/IQDOTNET-www.iqdotnet.net-1f6feb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.iqdotnet.net/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Cont%C3%A1ctame-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/525540208216)
 [![Email](https://img.shields.io/badge/Email-nguajardo@iqdotnet.net-d14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:nguajardo@iqdotnet.net)

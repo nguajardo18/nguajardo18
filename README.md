@@ -93,6 +93,19 @@ Ejemplos reales de sistemas a la medida desarrollados para clientes:
 
 ---
 
+## 🧪 Código abierto / Open source
+
+Los sistemas de clientes son privados, pero aquí puedes **ver mi forma de trabajar en código real** — demos con datos ficticios, listas para clonar y correr:
+
+| Repo | Qué demuestra |
+|---|---|
+| **[iqdotnet-ordenes-api](https://github.com/nguajardo18/iqdotnet-ordenes-api)** | Microservicio **.NET 8**: gestión de órdenes con **máquina de estados** de negocio, **automatización** en segundo plano (auto-cancelación), EF Core (SQLite → SQL Server), Minimal API + Swagger, 15 tests xUnit y Docker. |
+| **[IQDOTNETCODE](https://github.com/nguajardo18/IQDOTNETCODE)** | Biblioteca de *snippets* y utilidades en varios lenguajes para acelerar el desarrollo. |
+
+> 💡 Cada demo trae README con instrucciones de un comando para levantarla. *The client systems are private — these open demos (fictional data) show how I actually build.*
+
+---
+
 ## 🛠️ Stack / Tecnologías
 
 <p align="center">
